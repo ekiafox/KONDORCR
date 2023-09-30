@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "ROBOTOBOLD";
+  src: url(https://raw.githubusercontent.com/ekiafox/FUENTES_EKFX/36e371db0461100fdff300875a05f16c19e2fb4a/EUROPA-GROTESC-EXTRA-BOLD.ttf);
+}
+.titulokondor {display: flex;margin-right: 1330px;
+  font-family: ROBOTOBOLD;
+  font-size: 800%;
+  margin-left: 50px;
+  background-image: linear-gradient(to right, #200122, #6f0000);
+  background-clip: text;
+-webkit-background-clip: text;
+color: transparent;
+
+}
